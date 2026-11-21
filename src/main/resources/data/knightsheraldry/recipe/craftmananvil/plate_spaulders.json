@@ -1,0 +1,24 @@
+{
+  "type": "overgeared:forging",
+  "category": "ARMORS",
+  "hammering": 5,
+  "pattern": [
+    " P ",
+    "PXP"
+  ],
+  "key": {
+    "P": {
+      "item": "overgeared:steel_plate"
+    },
+    "X": {
+      "item": "knightsheraldry:spaulders_piece"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "knightsheraldry:plate_spaulders"
+  },
+  "show_notification": false,
+  "has_polishing": false,
+  "need_quenching": false
+}

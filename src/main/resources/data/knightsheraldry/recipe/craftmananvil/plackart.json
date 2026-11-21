@@ -1,0 +1,25 @@
+{
+  "type": "overgeared:forging",
+  "category": "ARMORS",
+  "hammering": 6,
+  "pattern": [
+    "nPn",
+    "PPP",
+    "PPP"
+  ],
+  "key": {
+    "P": {
+      "item": "overgeared:steel_plate"
+    },
+    "n": {
+      "item": "overgeared:steel_nugget"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "knightsheraldry:plackart"
+  },
+  "show_notification": false,
+  "has_polishing": false,
+  "need_quenching": false
+}

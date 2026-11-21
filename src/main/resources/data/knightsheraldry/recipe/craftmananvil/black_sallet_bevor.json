@@ -1,0 +1,16 @@
+{
+  "type": "overgeared:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "item": "knightsheraldry:black_sallet"
+    },
+    {
+      "item": "knightsheraldry:bevor"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "knightsheraldry:black_sallet_bevor"
+  }
+}

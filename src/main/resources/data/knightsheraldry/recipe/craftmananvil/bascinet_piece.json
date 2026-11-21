@@ -1,0 +1,22 @@
+{
+  "type": "overgeared:forging",
+  "category": "ARMORS",
+  "hammering": 5,
+  "pattern": [
+    " P ",
+    "PPP",
+    "P P"
+  ],
+  "key": {
+    "P": {
+      "item": "overgeared:steel_plate"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "knightsheraldry:bascinet_piece"
+  },
+  "show_notification": false,
+  "has_polishing": false,
+  "need_quenching": false
+}

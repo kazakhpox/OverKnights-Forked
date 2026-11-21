@@ -1,0 +1,25 @@
+{
+  "type": "overgeared:forging",
+  "category": "ARMORS",
+  "hammering": 7,
+  "pattern": [
+    "P P",
+    "PPP",
+    "PCP"
+  ],
+  "key": {
+    "C": {
+      "item": "overknights:chainmail_mesh"
+    },
+    "P": {
+      "item": "overgeared:steel_plate"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "knightsheraldry:horse_barding"
+  },
+  "show_notification": false,
+  "has_polishing": false,
+  "need_quenching": false
+}

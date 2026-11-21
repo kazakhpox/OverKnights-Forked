@@ -1,0 +1,21 @@
+{
+  "type": "overgeared:forging",
+  "category": "ARMORS",
+  "hammering": 3,
+  "pattern": [
+    "CCC",
+    "C C"
+  ],
+  "key": {
+    "C": {
+      "item": "overknights:chainmail_mesh"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "knightsheraldry:aventail"
+  },
+  "show_notification": false,
+  "has_polishing": false,
+  "need_quenching": false
+}

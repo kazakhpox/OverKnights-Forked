@@ -1,0 +1,19 @@
+{
+  "type": "overgeared:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "item": "minecraft:stick"
+    },
+    {
+      "item": "minecraft:stick"
+    },
+    {
+      "item": "knightsheraldry:halberd_head"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "knightsheraldry:halberd"
+  }
+}

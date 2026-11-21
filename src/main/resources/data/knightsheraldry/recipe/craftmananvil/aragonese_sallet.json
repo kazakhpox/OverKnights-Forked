@@ -1,0 +1,24 @@
+{
+  "type": "overgeared:forging",
+  "category": "ARMORS",
+  "hammering": 6,
+  "pattern": [
+    " P ",
+    "PXP"
+  ],
+  "key": {
+    "P": {
+      "item": "overgeared:steel_plate"
+    },
+    "X": {
+      "item": "knightsheraldry:sallet_bevor"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "knightsheraldry:aragonese_sallet"
+  },
+  "show_notification": false,
+  "has_polishing": false,
+  "need_quenching": false
+}

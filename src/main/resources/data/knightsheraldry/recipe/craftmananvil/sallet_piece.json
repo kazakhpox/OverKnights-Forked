@@ -1,0 +1,22 @@
+{
+  "type": "overgeared:forging",
+  "category": "ARMORS",
+  "hammering": 5,
+  "pattern": [
+    "PPP",
+    "P P",
+    "P  "
+  ],
+  "key": {
+    "P": {
+      "item": "overgeared:steel_plate"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "knightsheraldry:sallet_piece"
+  },
+  "show_notification": false,
+  "has_polishing": false,
+  "need_quenching": false
+}

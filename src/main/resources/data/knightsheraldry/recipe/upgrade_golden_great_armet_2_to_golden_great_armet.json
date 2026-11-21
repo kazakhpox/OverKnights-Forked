@@ -1,0 +1,18 @@
+{
+  "type": "overgeared:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "item": "knightsheraldry:golden_great_armet_2"
+    },
+    {
+      "tag": "overgeared:smithing_hammers",
+      "remainder": true,
+      "durability_decrease": 1
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "knightsheraldry:golden_great_armet"
+  }
+}

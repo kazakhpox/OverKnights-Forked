@@ -1,0 +1,25 @@
+{
+  "type": "overgeared:forging",
+  "category": "ARMORS",
+  "hammering": 5,
+  "pattern": [
+    "LPL",
+    "P P",
+    "L L"
+  ],
+  "key": {
+    "P": {
+      "item": "overgeared:steel_plate"
+    },
+    "L": {
+      "item": "overknights:leather_strip"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "knightsheraldry:brigandine_cuisses"
+  },
+  "show_notification": false,
+  "has_polishing": false,
+  "need_quenching": false
+}

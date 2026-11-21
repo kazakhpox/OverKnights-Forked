@@ -1,0 +1,24 @@
+{
+  "type": "overgeared:forging",
+  "category": "ARMORS",
+  "hammering": 4,
+  "pattern": [
+    "PnP",
+    "P P"
+  ],
+  "key": {
+    "P": {
+      "item": "overgeared:steel_plate"
+    },
+    "n": {
+      "item": "overgeared:steel_nugget"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "knightsheraldry:harness_piece"
+  },
+  "show_notification": false,
+  "has_polishing": false,
+  "need_quenching": false
+}

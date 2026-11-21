@@ -1,0 +1,23 @@
+{
+  "type": "overgeared:forging",
+  "category": "ARMORS",
+  "hammering": 3,
+  "pattern": [
+    "PnP"
+  ],
+  "key": {
+    "P": {
+      "item": "overgeared:steel_plate"
+    },
+    "n": {
+      "item": "overgeared:steel_nugget"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "knightsheraldry:rim_guards"
+  },
+  "show_notification": false,
+  "has_polishing": false,
+  "need_quenching": false
+}

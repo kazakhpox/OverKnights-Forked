@@ -1,0 +1,18 @@
+{
+  "type": "overgeared:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "item": "knightsheraldry:hammer"
+    },
+    {
+      "tag": "overgeared:smithing_hammers",
+      "remainder": true,
+      "durability_decrease": 1
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "knightsheraldry:war_hammer"
+  }
+}

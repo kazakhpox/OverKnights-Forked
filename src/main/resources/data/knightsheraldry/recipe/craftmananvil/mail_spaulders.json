@@ -1,0 +1,16 @@
+{
+  "type": "overgeared:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "item": "knightsheraldry:spaulders_piece"
+    },
+    {
+      "item": "overknights:chainmail_mesh"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "knightsheraldry:mail_spaulders"
+  }
+}

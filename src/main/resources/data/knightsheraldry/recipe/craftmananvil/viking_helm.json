@@ -1,0 +1,24 @@
+{
+  "type": "overgeared:forging",
+  "category": "ARMORS",
+  "hammering": 4,
+  "pattern": [
+    " P ",
+    "PXP"
+  ],
+  "key": {
+    "P": {
+      "item": "overgeared:steel_plate"
+    },
+    "X": {
+      "item": "knightsheraldry:nasal_piece"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "knightsheraldry:viking_helm"
+  },
+  "show_notification": false,
+  "has_polishing": false,
+  "need_quenching": false
+}

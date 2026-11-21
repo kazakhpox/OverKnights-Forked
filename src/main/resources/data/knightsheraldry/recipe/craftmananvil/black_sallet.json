@@ -1,0 +1,27 @@
+{
+  "type": "overgeared:forging",
+  "category": "ARMORS",
+  "hammering": 5,
+  "pattern": [
+    " Y ",
+    "PXP"
+  ],
+  "key": {
+    "P": {
+      "item": "overgeared:steel_plate"
+    },
+    "X": {
+      "item": "knightsheraldry:visorless_sallet"
+    },
+    "Y": {
+      "item": "knightsheraldry:visor"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "knightsheraldry:black_sallet"
+  },
+  "show_notification": false,
+  "has_polishing": false,
+  "need_quenching": false
+}

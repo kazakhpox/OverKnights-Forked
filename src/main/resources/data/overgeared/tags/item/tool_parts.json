@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    "knightsheraldry:dagger_head",
+    "knightsheraldry:stiletto_head",
+    "knightsheraldry:sword_head",
+    "knightsheraldry:rapier_head",
+    "knightsheraldry:falchion_head",
+    "knightsheraldry:longsword_head",
+    "knightsheraldry:greatsword_head",
+    "knightsheraldry:axe_head",
+    "knightsheraldry:halberd_head",
+    "knightsheraldry:billhook_head",
+    "knightsheraldry:hammer_head",
+    "knightsheraldry:mace_head",
+    "knightsheraldry:spear_head",
+    "knightsheraldry:pitchfork_head"
+  ]
+}

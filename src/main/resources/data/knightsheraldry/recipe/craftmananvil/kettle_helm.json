@@ -1,0 +1,16 @@
+{
+  "type": "overgeared:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "item": "knightsheraldry:kettle_piece"
+    },
+    {
+      "item": "overknights:leather_patch"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "knightsheraldry:kettle_helm"
+  }
+}

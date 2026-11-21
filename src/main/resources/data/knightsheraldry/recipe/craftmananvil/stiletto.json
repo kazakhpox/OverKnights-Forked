@@ -1,0 +1,19 @@
+{
+  "type": "overgeared:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "item": "knightsheraldry:stiletto_head"
+    },
+    {
+      "item": "minecraft:stick"
+    },
+    {
+      "item": "overknights:leather_strip"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "knightsheraldry:stiletto"
+  }
+}

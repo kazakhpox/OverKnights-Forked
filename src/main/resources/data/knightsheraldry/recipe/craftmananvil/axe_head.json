@@ -1,0 +1,19 @@
+{
+  "type": "overgeared:forging",
+  "category": "TOOL_HEADS",
+  "hammering": 4,
+  "pattern": [
+    "SS",
+    "SS"
+  ],
+  "key": {
+    "S": {
+      "item": "overgeared:heated_steel_ingot"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "knightsheraldry:axe_head"
+  },
+  "show_notification": false
+}

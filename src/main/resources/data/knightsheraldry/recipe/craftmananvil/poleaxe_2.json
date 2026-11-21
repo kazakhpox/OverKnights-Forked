@@ -1,0 +1,22 @@
+{
+  "type": "overgeared:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "item": "knightsheraldry:halberd_head"
+    },
+    {
+      "item": "minecraft:stick"
+    },
+    {
+      "item": "minecraft:stick"
+    },
+    {
+      "item": "overgeared:steel_nugget"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "knightsheraldry:poleaxe"
+  }
+}

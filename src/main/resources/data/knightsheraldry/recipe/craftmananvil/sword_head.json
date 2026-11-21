@@ -1,0 +1,23 @@
+{
+  "type": "overgeared:forging",
+  "category": "TOOL_HEADS",
+  "hammering": 4,
+  "pattern": [
+    "S",
+    "S",
+    "n"
+  ],
+  "key": {
+    "S": {
+      "item": "overgeared:heated_steel_ingot"
+    },
+    "n": {
+      "item": "overgeared:steel_nugget"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "knightsheraldry:sword_head"
+  },
+  "show_notification": false
+}
