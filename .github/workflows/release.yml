@@ -11,6 +11,11 @@ on:
 permissions:
   contents: write
 
+# One release build at a time: a second run for the same version waits instead of racing to create the same release.
+concurrency:
+  group: release
+  cancel-in-progress: false
+
 jobs:
   release:
     runs-on: ubuntu-latest
