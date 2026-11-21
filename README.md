@@ -23,6 +23,11 @@ its arms and armour are forged on Overgeared's anvils instead of hammered out of
 The recipes are written by `tools/gen_recipes.py` from Knights & Heraldry 1.2.0's own: every one of its craftsman-anvil
 smithing recipes is replaced under the same id, so nothing of it is left to make from hot iron.
 
+## Download
+
+The jar is on the [Releases](https://github.com/kazakhpox/OverKnights-Forked/releases) page (built by
+`.github/workflows/release.yml` from `mod_version`).
+
 ## Requirements
 
 | | Version |
